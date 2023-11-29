@@ -14,8 +14,8 @@ setup(
   },
   author='Kotaro Saito',
   author_email='saikota0314@gmail.com',
-  description='A Python library for handling and analyzing baseball scorebook data.',
-  long_description='A Python library for handling and analyzing baseball scorebook data. The library provides classes and functions to model and manipulate baseball game data, including innings, plays, players, and teams. It supports the creation, modification, and analysis of scorebooks, making it easy to extract insights from baseball game records. Whether you are building a baseball analytics tool or simply want to manage and analyze your own scorebooks, this library simplifies the process of working with baseball data.',
+  description='A Python library for handling and analyzing baseball score data.',
+  long_description='A Python library for handling and analyzing baseball score data. The library provides classes and functions to model and manipulate baseball game data, including innings, plays, players, and teams. It supports the creation, modification, and analysis of scorebooks, making it easy to extract insights from baseball game records. Whether you are building a baseball analytics tool or simply want to manage and analyze your own scorebooks, this library simplifies the process of working with baseball data.',
   long_description_content_type='text/markdown',
   url='https://github.com/kotaitos/scorebook',
   license='MIT',  # 適切なライセンスを選択
